@@ -53,7 +53,7 @@ Worked my way to this, which is the final output:
 ### 2.Potential shortcomings with current pipeline
 
 
-One potential shortcoming would be what would happen when the road curves more extremely. The region of interes wouldn't necessarily be adequate in curves. 
+One potential shortcoming would be what would happen when the road curves more extremely. The region of interest wouldn't necessarily be adequate in curves. 
 
 Another shortcoming could be that my lines are still a bit "jumpy", not perfectly smooth yet.
 
